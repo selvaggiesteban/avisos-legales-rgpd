@@ -1,0 +1,36 @@
+.form-table th {
+    width: 200px;
+}
+
+.form-table input[type="text"],
+.form-table input[type="url"],
+.form-table input[type="email"],
+.form-table input[type="tel"],
+.form-table textarea,
+.form-table select {
+    width: 100%;
+    max-width: 400px;
+}
+
+.error {
+    border-color: #dc3232;
+}
+
+#responsable_nombre_field,
+#empresas_compartidas_field {
+    display: none;
+}
+
+.submit .button {
+    margin-right: 10px;
+}
+
+/* Estilo para las casillas de verificación de páginas legales */
+.form-table label {
+    display: inline-block;
+    margin-bottom: 5px;
+}
+
+.form-table input[type="checkbox"] {
+    margin-right: 5px;
+}
