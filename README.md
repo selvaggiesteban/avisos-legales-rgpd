@@ -1,2 +1,2 @@
-# rgpd-plugin-wordpress
-Legal Notice Generator to Comply with GDPR
+# avisos-legales-rgpd
+Generador de Avisos Legales para Cumplir con el RGPD
